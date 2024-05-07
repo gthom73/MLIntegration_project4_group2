@@ -7,8 +7,8 @@ Analysis of USA Real Estate Dataset (2.2M+ listings from Kaggle.com)
 For businesses, employees and people looking to move their permanent residence location, it is important to know and understand the cost of purchasing a home in the new location. Often times, wages/salaries may be similar, between locations. However the cost of housing maybe considerably different depending on where you live. At HME Inc., business owned by Jon Haas, there are times where employees are moved to different branch locations due to needs at the branch. We wanted to see if we could create a model using Machine Learning that can predict housing prices based on certain features of a house (such as number of bedrooms, city, state, zip code and house size) so that the employee can decide what fits their needs. The headquarters of HME Inc. are located in Topeka, KS with satellite offices located in Denver, CO, Kansas City, MO, Kansas City, KS, and Dallas, TX. These are the cities that we filtered our data to look at in order to find the right zip code for our relocated employee(s).
 
 # How to Navigate Through the Data 
-* project_4_datamanipulation.ipynb
-** This file is where it all starts - this shows how the data was manipulated so that we could use the features deemed important and necessary to train our model. In this file you will find what columns were used, what cities we needed to look at, and graphs showing pricing averages.
+- project_4_datamanipulation.ipynb
+ - This file is where it all starts - this shows how the data was manipulated so that we could use the features deemed important and necessary to train our model. In this file you will find what columns were used, what cities we needed to look at, and graphs showing pricing averages.
  
 * Project_4_ML.ipynb
 ** In this file, you will find the manipulated data. Data was fine-tuned so that we could use multiple model learning techniques in order to create the most accurate prediction of housing prices within a zip code. Graphs are shown to see which model worked best.
