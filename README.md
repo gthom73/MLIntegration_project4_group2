@@ -21,6 +21,9 @@ For businesses, employees and people looking to move their permanent residence l
 ** Lastly, you can click on the link below to see where each zip code is in the city you are thinking about living in. Each city shows the poverty rate and average price of housing within a zip code. Use this to your advantage to see if this is an area you would like to live in.
 [Tableau Visual](https://public.tableau.com/app/profile/hilari.waters/viz/Project4_Viz/AvgPricebyZip)
 
+* project_4_slide_deck.pdf
+** Check out this PowerPoint .pdf to see what was presented.
+
 # Data Sources
 * https://data.census.gov
 * https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
