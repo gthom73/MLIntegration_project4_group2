@@ -1,4 +1,4 @@
-# MLIntegration_project4_group2
+# Machine Learning
 KU-VIRT-DATA-PT-11-2023-U-LOLC-MWTH
 
 Data Model Implementation (25pts)
@@ -23,6 +23,5 @@ Group Presentation (25pts)
   Presentation is relevant to material
   Presentation maintains audience interest
 
-[Tableau Visual](https://public.tableau.com/app/profile/hilari.waters/viz/Project4_Viz/AvgPricebyZip
-)
+[Tableau Visual](https://public.tableau.com/app/profile/hilari.waters/viz/Project4_Viz/AvgPricebyZip)
   
