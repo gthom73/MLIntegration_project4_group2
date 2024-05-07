@@ -19,7 +19,7 @@ testModelsBy_zip_and_city.ipynb
 
 Tableau Visual
 - Lastly, you can click on the link below to see where each zip code is in the city you are thinking about living in. Each city shows the poverty rate and average price of housing within a zip code. Use this to your advantage to see if this is an area you would like to live in.
-[Tableau Visual](https://public.tableau.com/app/profile/hilari.waters/viz/Project4_Viz/AvgPricebyZip)
+- [Tableau Visual](https://public.tableau.com/app/profile/hilari.waters/viz/Project4_Viz/AvgPricebyZip)
 
 project_4_slide_deck.pdf
 - Check out this PowerPoint .pdf to see what was presented.
