@@ -15,7 +15,7 @@ Project_4_ML.ipynb
  
 testModelsBy_zip_and_city.ipynb
 - To use this file, you must use your own Kaggle username and password to see the dataset. The dataset used is updated every 7-8 weeks - by using the API key, this means that predictions in this file are updated as well. Once entered, you can run all cells and then scroll to the bottom. Here, you will find a dropdown menu for dataset (filtered by city and state), as well as a dropdown that houses zip codes associated with that specific dataframe. This is how you can change which city and zip code is more appeasing to you as the employee. You can also change how many bedrooms and square feet you are looking for in the same cell under the comment "#Prediction". Use this piece to help you choose what is best!
-** This code takes approximately 7 minutes to run
+- This code takes approximately 7 minutes to run
 
 Tableau Visual
 - Lastly, you can click on the link below to see where each zip code is in the city you are thinking about living in. Each city shows the poverty rate and average price of housing within a zip code. Use this to your advantage to see if this is an area you would like to live in.
